@@ -1,5 +1,3 @@
-able File  19 lines (19 sloc)  264 Bytes
-
 #include "main.h"
 /**
  *  main - Prints _putchar
